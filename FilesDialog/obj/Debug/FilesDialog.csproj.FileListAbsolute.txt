@@ -1,0 +1,78 @@
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\bin\Debug\FilesDialog.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\bin\Debug\FilesDialog.exe
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\bin\Debug\FilesDialog.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\obj\Debug\FilesDialog.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\obj\Debug\FilesDialog.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\obj\Debug\FilesDialog.OpenFileDialog.resources
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\obj\Debug\FilesDialog.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\obj\Debug\FilesDialog.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\obj\Debug\FilesDialog.exe
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\obj\Debug\FilesDialog.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\FilesDialog\FilesDialog\obj\Debug\FilesDialog.FileControl.resources
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\bin\Debug\FilesDialog.exe.config
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.exe
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.pdb
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.FileControl.resources
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.Form1.resources
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.OpenFileDialog.resources
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\bin\Debug\FilesDialog.exe
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\bin\Debug\FilesDialog.pdb
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.Resource1.resources
+C:\Users\Administrator\Desktop\FilesDialog\FilesDialog\obj\Debug\FilesDialog.LayoutPanel.resources
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\bin\Debug\FilesDialog.exe.config
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.exe
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.pdb
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\bin\Debug\FilesDialog.exe
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\bin\Debug\FilesDialog.pdb
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.FileControl.resources
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.Form1.resources
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.OpenFileDialog.resources
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.Resource1.resources
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.csprojResolveAssemblyReference.cache
+D:\FilesDialog - 副本\FilesDialog\bin\Debug\FilesDialog.exe.config
+D:\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.exe
+D:\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.pdb
+D:\FilesDialog - 副本\FilesDialog\bin\Debug\FilesDialog.exe
+D:\FilesDialog - 副本\FilesDialog\bin\Debug\FilesDialog.pdb
+D:\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.FileControl.resources
+D:\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.Form1.resources
+D:\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.OpenFileDialog.resources
+D:\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.Resource1.resources
+D:\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.csproj.GenerateResource.Cache
+D:\FilesDialog - 副本\FilesDialog\obj\Debug\FilesDialog.csprojResolveAssemblyReference.cache
+D:\Work\FilesDialog_new\FilesDialog\bin\Debug\FilesDialog.exe.config
+D:\Work\FilesDialog_new\FilesDialog\obj\Debug\FilesDialog.exe
+D:\Work\FilesDialog_new\FilesDialog\obj\Debug\FilesDialog.pdb
+D:\Work\FilesDialog_new\FilesDialog\bin\Debug\FilesDialog.exe
+D:\Work\FilesDialog_new\FilesDialog\bin\Debug\FilesDialog.pdb
+D:\Work\FilesDialog_new\FilesDialog\obj\Debug\FilesDialog.csprojResolveAssemblyReference.cache
+D:\Work\FilesDialog_new\FilesDialog\obj\Debug\FilesDialog.FileControl.resources
+D:\Work\FilesDialog_new\FilesDialog\obj\Debug\FilesDialog.Form1.resources
+D:\Work\FilesDialog_new\FilesDialog\obj\Debug\FilesDialog.OpenFileDialog.resources
+D:\Work\FilesDialog_new\FilesDialog\obj\Debug\FilesDialog.Resource1.resources
+D:\Work\FilesDialog_new\FilesDialog\obj\Debug\FilesDialog.csproj.GenerateResource.Cache
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\bin\Debug\FilesDialog.exe.config
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.exe
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.pdb
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\bin\Debug\FilesDialog.exe
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\bin\Debug\FilesDialog.pdb
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.csprojResolveAssemblyReference.cache
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.FileControl.resources
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.Form1.resources
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.OpenFileDialog.resources
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.Resource1.resources
+D:\Private\File\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.csproj.GenerateResource.Cache
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\bin\Debug\FilesDialog.exe.config
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.exe
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.pdb
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\bin\Debug\FilesDialog.exe
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\bin\Debug\FilesDialog.pdb
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.csprojResolveAssemblyReference.cache
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.FileControl.resources
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.Form1.resources
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.OpenFileDialog.resources
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.Resource1.resources
+D:\Work\ENG\0、Code\FilesDialog\FilesDialog\obj\Debug\FilesDialog.csproj.GenerateResource.Cache
